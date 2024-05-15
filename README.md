@@ -1,6 +1,9 @@
 <h1 align="center">Redux - JavaScript</h1>
 
-Práctica utilizando Redux, implementado con JavaScript.
+Práctica con Redux + JavaScript.
 
 ![Redux](redux.png)
 
+## Ejecutar
+
+Ejecutar el archivo index.html.

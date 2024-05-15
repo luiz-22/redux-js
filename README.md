@@ -1,4 +1,4 @@
-<h1 align="center">Redux - JavaScript</h1>
+<h1 align="center">Redux + JavaScript</h1>
 
 Práctica con Redux + JavaScript.
 

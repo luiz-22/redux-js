@@ -1,4 +1,4 @@
-<h1 align="center">Redux + JavaScript</h1>
+# Redux + JavaScript
 
 Implementación de Redux con JavaScript.
 

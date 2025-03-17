@@ -1,11 +1,11 @@
-<h1 align="center">Redux + JavaScript</h1>
+# Redux + JavaScript
 
 Implementación de Redux con JavaScript.
 
-## Ejecutar
+## ▶️ Ejecución
 
-Ejecutar el archivo index.html.
+Ejecuta el archivo index.html.
 
-## Guía básica de Redux
+## 📝 Guía básica de Redux
 
 [Link](https://luisblog.vercel.app/redux/inicio)
